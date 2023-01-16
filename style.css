@@ -1,0 +1,48 @@
+
+* {
+
+}
+
+.primero {
+	margin-right: 49%;
+	font-family: 'Open Sans',sans-serif,Arial,Helvetica;
+
+
+}
+
+#encabezado {
+	font-size: 18px;
+
+
+}
+
+#main {
+	padding: 0;
+	font-size: 14px;
+}
+
+#azul {
+	padding: 20px;
+	margin: 20px;
+	color: white;
+	background-color: #40bda9;
+	border: 10% ;
+	font-size: 14px;
+}
+
+.segundo {
+	
+	font-family: 'Open Sans',sans-serif,Arial,Helvetica;
+	margin-right: 47.5%;
+	font-size: 14px;
+}
+
+.tercer {
+	margin-right: 47.5%;
+	font-family: 'Open Sans',sans-serif,Arial,Helvetica;
+	font-size: 14px;
+}
+
+h1 {
+	color: #000000;
+}

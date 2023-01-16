@@ -46,3 +46,12 @@
 h1 {
 	color: #000000;
 }
+
+.negrita {
+	padding: 0;
+	color: black;
+}
+
+body {
+       font-color: #EEE9E8;
+}
